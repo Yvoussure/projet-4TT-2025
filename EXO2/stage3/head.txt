@@ -1,0 +1,6 @@
+       name   id nametype     recclass  mass (g)  fall    year    reclat    reclong           GeoLocation  Unnamed: 10
+0    Aachen    1    Valid           L5      21.0  Fell  1880.0  50.77500    6.08333     (50.775, 6.08333)          NaN
+1    Aarhus    2    Valid           H6     720.0  Fell  1951.0  56.18333   10.23333  (56.18333, 10.23333)          NaN
+2      Abee    6    Valid          EH4  107000.0  Fell  1952.0  54.21667 -113.00000    (54.21667, -113.0)          NaN
+3  Acapulco   10    Valid  Acapulcoite    1914.0  Fell  1976.0  16.88333  -99.90000     (16.88333, -99.9)          NaN
+4   Achiras  370    Valid           L6     780.0  Fell  1902.0 -33.16667  -64.95000   (-33.16667, -64.95)          NaN
